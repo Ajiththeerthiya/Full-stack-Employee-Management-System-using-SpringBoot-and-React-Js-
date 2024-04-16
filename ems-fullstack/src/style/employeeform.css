@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:200i,400&display=swap');
+
+.st-ba {
+    background-color: #2B4056;
+    min-height: 90vh;
+}
+
+.card-top {
+    width: 20rem;
+    padding: 1rem;
+    margin-top: 100px;
+}
+
+.title {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

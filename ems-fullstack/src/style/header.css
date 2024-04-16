@@ -1,0 +1,15 @@
+.col {
+    background-color: #7431F9;
+
+}
+
+.col a {
+    color: white;
+}
+
+.col a:hover {
+    color: white;
+}
+.navi{
+    cursor: pointer;
+}
