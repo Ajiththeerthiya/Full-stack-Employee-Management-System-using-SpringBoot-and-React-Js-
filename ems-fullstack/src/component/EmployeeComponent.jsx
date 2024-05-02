@@ -35,6 +35,9 @@ function EmployeeComponent() {
         e.preventDefault()
 
         const employee = { firstName, lastName, email }
+        if (firstName === "" || lastName === "" || email === "") {
+            return;
+        }
         if (id) {
             updateDataEmployee(id, employee).then((response) => {
                 navigate('/')
